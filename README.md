@@ -1,1 +1,2 @@
-# DPSI-Hanyarui
+## DPSI
+### Dharu Aulia Rahman
